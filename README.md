@@ -1,6 +1,6 @@
 # Fabian144
 
-<p align="center">Hi! I'm a student in Front-end development and UX design, working on Front-end projects and sharpening my skills in my free time. </p>
+<p align="left">Hi! I'm a student in Front-end development and UX design, working on Front-end projects and sharpening my skills in my free time. </p>
 
 <h3 align="center">📊 My stats and tools that i use 🛠️</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fabian144&show_icons=true&theme=react&hide_border=true&hide_title=true" height="200" width="500" alt="GitHub Stats" /> </p>
