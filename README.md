@@ -4,7 +4,7 @@
 	
 ---
 
-<p align="center">I'm a student in Front-end development and UX design, working on Front-end projects in my free time and always improving. </p>
+<p align="center">Hi! I'm a student in Front-end development and UX design, work on Front-end projects in my free time and always try to improve. </p>
 
 <h3 align="center">📊 My stats and tools that i use 🛠️</h3>
 <p align="center"> <img src="https://streak-stats.demolab.com?user=fabian144&locale=en&mode=daily&theme=github-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> </p>
