@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=33D339FF&background=000000&center=true&vCenter=true&width=250&lines=Welcome;Fabian144" alt="Typing SVG" /></a>
+	<a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=250&lines=Welcome;Fabian144" alt="Typing SVG" /></a>
 <div/>
 	
 ---
@@ -7,7 +7,7 @@
 <p align="center">Hi! I'm a student in Front-end development and UX design. I work on Front-end projects in my free time and always try to improve. </p>
 
 <h3 align="center">📊 My stats and tools that i use 🛠️</h3>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=fabian144&locale=en&mode=daily&theme=hacker&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=fabian144&locale=en&mode=daily&theme=black-ice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> </p>
 
 
 <p align="center">
