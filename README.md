@@ -7,7 +7,7 @@
 <p align="center">Hi! I'm a student in Front-end development and UX design. I work on Front-end projects in my free time and always try to improve. </p>
 
 <h3 align="center">📊 My stats and tools that i use 🛠️</h3>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=fabian144&locale=en&mode=daily&theme=hacker&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=fabian144&locale=en&mode=daily&theme=hacker&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  /> </p>
 
 
 <p align="center">
