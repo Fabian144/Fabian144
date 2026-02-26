@@ -11,6 +11,7 @@
   <a> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /> </a>
 	<a> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" /> </a>
 	<a> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" /> </a>
+	<a> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" /> </a>
 	<a> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" /> </a>
 	<a> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" /> </a>
 	<a> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /> </a>
