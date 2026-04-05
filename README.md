@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=250&lines=Welcome;Fabian144" alt="Typing SVG" /></a>
+	<a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=61DAFB&center=true&vCenter=true&width=200&lines=Front-end developer;UX design student;Fabian144" alt="Typing SVG" /></a>
 <div/>
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=fabian144&locale=en&mode=daily&theme=black-ice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> </p>
