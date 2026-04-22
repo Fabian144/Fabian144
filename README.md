@@ -7,17 +7,5 @@
 <br/>
 
 <p align="center">
-	<a> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="35" height="40" /> </a>
-  <a> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="35" height="40" /> </a>
-  <a> <img src="https://skillicons.dev/icons?i=react" alt="react" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=supabase" alt="css3" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="35" /> </a>
-  <a> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="35" height="40" /> </a>
-	<a> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="35" height="40" /> </a>
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,supabase,nodejs,graphql,cypress,git,linux,figma" width="550" />
 </p>
