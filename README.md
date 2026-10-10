@@ -7,5 +7,5 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,py,js,ts,vue,react,html,css,express,cypress,git,linux,pwsh" width="500" />
+    <img src="https://skillicons.dev/icons?i=c,py,js,ts,vue,react,html,css,express,cypress,git,linux,pwsh" width="550" />
 </p>
